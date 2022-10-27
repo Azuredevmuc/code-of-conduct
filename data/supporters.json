@@ -2368,6 +2368,19 @@
           "twitter": "bjschrijver"
         }
       ]
+    },
+    {
+      "name": "Azure Dev Meetup Munich",
+      "city": "Munich",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/azure-dev-munich/",
+      "twitter": "AzureDevMuc",
+      "contacts": [
+        {
+          "name": "Ralf Richter",
+          "twitter": "rari2003",
+        }
+      ]
     }
   ]
 }
